@@ -1,10 +1,10 @@
 # Projeto Credibilidade - Nexo Jornal
 
-Snippets de markup para o projeto credibilidade
+Snippets de markup para o Projeto Credibilidade.
 
 [Autores](https://github.com/JornalNexo/Credibilidade/blob/master/autores.html)
 
-Códigos com marcação individual para cada autor no **Nexo**.
+Códigos com marcação individual para cada autor no **Nexo Jornal**.
 
 [Publicação](https://github.com/JornalNexo/Credibilidade/blob/master/publicacao.html)
 
